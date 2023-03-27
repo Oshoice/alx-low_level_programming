@@ -8,7 +8,7 @@
  */
 
 void
-print_rev(char *s);
+print_rev be on same line
 
 {
 	int c = 0;
